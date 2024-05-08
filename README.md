@@ -412,8 +412,7 @@ print("Mean Squared Error (MSE):", mean_mse)
 print("Mean R-squared value:", mean_r2)
 
 
-Google Colab link of our analysis: 
-https://colab.research.google.com/drive/1E6uqlW4mazOb8xSrgJmLpkVVqMUYanwG?usp=sharing
+
 
 
 
